@@ -1,0 +1,4 @@
+- 👋 hey friends! i'm @irmtou
+- 👀 i'm interested in AI/ML 
+- 🌱 i'm currently learning some cool things
+- i write on [medium](https://medium.com/@irmtou) for the techy things and [blogspot](https://irmtou.blogspot.com) for the creative things
