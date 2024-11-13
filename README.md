@@ -1,4 +1,8 @@
 - 👋 hey friends! i'm @irmtou
 - 👀 i'm interested in AI/ML 
-- 🌱 i'm currently learning some cool things
+- 🌱 i'm currently learning some cool things:
+    - 3D game programming
+    - data science shenanigans
+    - computer science education
+- i want to start adding my school projects on here, so stay tuned
 - i write on [medium](https://medium.com/@irmtou) for the techy things and [blogspot](https://irmtou.blogspot.com) for the creative things
