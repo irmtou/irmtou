@@ -5,8 +5,9 @@
 
 - my name is **erica**
 - i'm a fourth year computer science major at SDSU
-- i like video games, listening to music, and expressing myself in creative ways
-- i learn and perform best with patience 
+- i enjoy playing video games, listening to music, practicing the guitar, and expressing myself creatively
+- i love learning new things, but i perform best with patience 
+- i write sometimes, check out my works on [Medium](https://irmtou.medium.com), both for techy and non-techy things! 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1011&color=F05FF7&width=435&lines=connect+with+me+.+.+.)](https://git.io/typing-svg)
